@@ -2,6 +2,9 @@
   The more lines found in a method, the harder it’s to figure out what the method does. This is the main reason for this refactoring.
   Besides eliminating rough edges in your code, extracting methods is also a step in many other refactoring approaches.
 
+  When use?
+   - To reduce the length of a method body, use
+    
   Benefits:
     - Radable code
     - Give the new method a name that describe the method
